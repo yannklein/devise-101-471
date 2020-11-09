@@ -1,1 +1,7 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+# Devise 101
+
+## Lead Dev
+- Douglas Berkley
+
+## n00b
+- Yann Klein
